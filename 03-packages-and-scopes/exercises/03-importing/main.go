@@ -21,12 +21,12 @@ package main
 //  hi
 // ---------------------------------------------------------
 
-// ?
-// ?
-// ?
+import f "fmt"
+import youhou "fmt"
+import napoli "fmt"
 
 func main() {
-	// ?
-	// ?
-	// ?
+	f.Println("FORZA")
+	napoli.Println("NAPOLI")
+	youhou.Println("SEMPRE")
 }
