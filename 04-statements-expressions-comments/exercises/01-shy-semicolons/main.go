@@ -18,5 +18,11 @@ package main
 //
 // ---------------------------------------------------------
 
+import "fmt"
+
 func main() {
+	var nb int32 = 42
+	res := 51
+
+	fmt.Println(nb, res)
 }
